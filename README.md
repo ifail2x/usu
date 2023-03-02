@@ -1,2 +1,3 @@
-# usu
-The official GitHub Repo for theusu!project!
+# usu!
+
+The Utibauwu themed version of osu! (heavily indev)
